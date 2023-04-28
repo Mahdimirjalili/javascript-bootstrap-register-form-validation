@@ -1,4 +1,4 @@
-# javascript bootstrap form validation
+# javascript-bootstrap form validation
 
 The simple HTML page includes the registration form and the following inputes:
 
